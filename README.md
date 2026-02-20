@@ -1,4 +1,4 @@
-<h1> Bienvenido a mi rspositorio</h1>
+<h1> Bienvenido a mi repositorio</h1>
 mi primer respositorio publico.
 Hola.
 <h2>Edite esta parte</h2>
